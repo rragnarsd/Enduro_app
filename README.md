@@ -1,16 +1,17 @@
-# enduro
+# Enduro
 
-A new Flutter project.
+## :package: Packages
+- Percent Indicator - https://pub.dev/packages/percent_indicator
+- Sembast - https://pub.dev/packages/sembast
+- GetX - https://pub.dev/packages/get
+- GoogleFonts - https://pub.dev/packages/google_fonts
+- PathProvider - https://pub.dev/packages/path_provider
+- Path - https://pub.dev/packages/path
 
-## Getting Started
+##  :art: Design
+- The design is made by me
+- Font Family: **Lato**
+- Logo made in **Canva**
+- Color palette:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Color Palette Mood board Instagram Post (1)](https://github.com/user-attachments/assets/d44a6cdf-e5f2-419c-b5a2-a31ced95788b)
